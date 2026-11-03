@@ -1,0 +1,11 @@
+.env
+credentials.json
+token.json
+config.py
+classification_log*.json
+classification_log*.xlsx
+*.log
+main_error.txt
+__pycache__/
+*.pyc
+.DS_Store
